@@ -1,0 +1,15 @@
+{
+  "name": "bab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://general260.github.io/bab",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
